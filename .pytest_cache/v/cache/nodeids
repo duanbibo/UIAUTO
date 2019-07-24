@@ -1,0 +1,10 @@
+[
+  "testcase/patient/test_updateziliao.py::TestAdd::()::test_001_addzhenduan",
+  "testcase/patient/test_updateziliao.py::TestAdd::()::test_002_updatezhenduan",
+  "testcase/patient/test_updateziliao.py::TestAdd::()::test_003_delzhenduan",
+  "testcase/patient/test_updateziliao.py::TestAdd::()::test_004_xiugaiyongyao",
+  "testcase/patient/test_updateziliao.py::TestAdd::()::test_005_seeshenghuo",
+  "testcase/patient/test_updateziliao.py::TestAdd::()::test_007_shenhewenti",
+  "testcase/patient/test_updateziliao.py::TestAdd::()::test_008_addjianyi",
+  "testcase/patient/test_updateziliao.py::TestAdd::()::test_009_addhuizhen"
+]

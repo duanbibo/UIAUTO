@@ -1,0 +1,81 @@
+[ {
+  "uid" : "797034108731f891",
+  "name" : "TestAdd.test_001_addzhenduan",
+  "time" : {
+    "start" : 1559620628869,
+    "stop" : 1559620628963,
+    "duration" : 94
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f9ecb4387a644d0c",
+  "name" : "TestAdd.test_008_addjianyi",
+  "time" : {
+    "start" : 1559620629207,
+    "stop" : 1559620629251,
+    "duration" : 44
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ef7ac993f0838845",
+  "name" : "TestAdd.test_004_xiugaiyongyao",
+  "time" : {
+    "start" : 1559620629055,
+    "stop" : 1559620629099,
+    "duration" : 44
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d237593217babeb4",
+  "name" : "TestAdd.test_009_addhuizhen",
+  "time" : {
+    "start" : 1559620629252,
+    "stop" : 1559620629296,
+    "duration" : 44
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "810d54f7d09ae25b",
+  "name" : "TestAdd.test_002_updatezhenduan",
+  "time" : {
+    "start" : 1559620628964,
+    "stop" : 1559620629009,
+    "duration" : 45
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f1611951dd1ae0e3",
+  "name" : "TestAdd.test_003_delzhenduan",
+  "time" : {
+    "start" : 1559620629010,
+    "stop" : 1559620629054,
+    "duration" : 44
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6d62facf33a4e179",
+  "name" : "TestAdd.test_007_shenhewenti",
+  "time" : {
+    "start" : 1559620629147,
+    "stop" : 1559620629206,
+    "duration" : 59
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6a66af32de4a844d",
+  "name" : "TestAdd.test_005_seeshenghuo",
+  "time" : {
+    "start" : 1559620629100,
+    "stop" : 1559620629146,
+    "duration" : 46
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

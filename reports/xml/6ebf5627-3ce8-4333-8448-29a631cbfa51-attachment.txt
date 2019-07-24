@@ -1,0 +1,11 @@
+basePage.py                 44 INFO     访问网址：http://ys.test.xzlcorp.com/#/login
+basePage.py                 77 INFO     正在定位元素信息：定位方式->id, value值->username
+basePage.py                 77 INFO     正在定位元素信息：定位方式->id, value值->username
+basePage.py                101 INFO     元素:('id', 'username'),输入文本：abc
+basePage.py                 77 INFO     正在定位元素信息：定位方式->id, value值->password
+basePage.py                 77 INFO     正在定位元素信息：定位方式->id, value值->password
+basePage.py                101 INFO     元素:('id', 'password'),输入文本：123456
+basePage.py                 77 INFO     正在定位元素信息：定位方式->xpath, value值->//*[@id="wrapper"]/div/div/div[2]/div/form/div[4]/div/div/button
+basePage.py                110 INFO     点击元素:('xpath', '//*[@id="wrapper"]/div/div/div[2]/div/form/div[4]/div/div/button')
+basePage.py                365 INFO     在此时进行截图！！
+basePage.py                373 INFO     已成功生成截图，请确认！

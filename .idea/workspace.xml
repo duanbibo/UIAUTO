@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="529c54cd-c48c-4db1-8dc6-a2bca095e6e5" name="Default" comment="7-24前端重构后修改">
+      <change beforePath="$PROJECT_DIR$/common/basePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/basePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/runCase.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="uiTest-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/lianxi/lianxi1">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/lianxi/appiumlx.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/wait.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1593">
+              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../python/ApiTestFrameWork/conf/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runCase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../python/ApiTestFrameWork/runCase.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>locator</find>
+      <find>tools/allure-2.7.0/bin/</find>
+      <find>clear</find>
+      <find>click</find>
+      <find>alert</find>
+      <find>qq.com</find>
+      <find>try</find>
+      <find>//*[@id=&quot;wrapper&quot;]/div/div/div[2]/div/section/div[1]/div/div/ul/li[8]/div/span[2]/i</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\djcps\Desktop\uiTest</dir>
+      <dir>C:\Users\djcps\Desktop\uiTest\testcase\allure2-2.8.1</dir>
+      <dir>C:\Users\djcps\Desktop\uiTest\testcase</dir>
+      <dir>C:\Users\djcps\Desktop\uiTest\testcase\allure-2.7.0\bin</dir>
+      <dir>C:\Users\djcps\Desktop\uiTest\tools\allure-2.7.0</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/templates/test_js.html" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/calss/duotai.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/calss/classbase.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/tool/jsonpa.py" />
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/templates/test_js2.html" />
+        <option value="H:/web/case/test_17_addjigou.py" />
+        <option value="H:/web/case/test_22_addyiyuan.py" />
+        <option value="H:/web/common/basePage.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/tool/email1.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/tool/fileandtime.py" />
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/TestDjango/settings.py" />
+        <option value="H:/web/pages/index/MainPage.py" />
+        <option value="H:/web/pages/index/jigouPage.py" />
+        <option value="H:/web/case/test_18_logout.py" />
+        <option value="H:/web/case/test_20_addkeshi.py" />
+        <option value="H:/web/case/test_19_loginnew.py" />
+        <option value="H:/web/case/test_21_updatakeshi.py" />
+        <option value="H:/web/case/test_22_closekeshi.py" />
+        <option value="H:/web/case/test_23_openkeshi.py" />
+        <option value="H:/web/case/test_24_addtopjigou.py" />
+        <option value="H:/web/case/test_25_addxiajigou.py" />
+        <option value="H:/web/case/test_26_delkeshipass.py" />
+        <option value="H:/web/case/test_27_addyisheng.py" />
+        <option value="H:/web/case/test_29_updateyisheng.py" />
+        <option value="H:/web/case/test_30_deloneyisheng.py" />
+        <option value="H:/web/case/test_28_renzhengyisheng.py" />
+        <option value="H:/web/pages/index/docterPage.py" />
+        <option value="H:/web/case/test_30_fenpeiyisheng.py" />
+        <option value="H:/web/case/test_31_deloneyisheng.py" />
+        <option value="H:/web/pages/index/patientPage.py" />
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/templates/static/extends.html" />
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/templates/test_vue.html" />
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/two_App/views.py" />
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/TestDjango/urls.py" />
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/templates/extends.html" />
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/templates/render.html" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/hanshu/neijianhanshu.py" />
+        <option value="$USER_HOME$/PycharmProjects/TestDjango/two_App/models.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/zifuchuan.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/kaobei.py" />
+        <option value="H:/web/case/test_32_addbingren.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/liebiao.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/tool/riqi.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/tool/suijishu.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/lei/base.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/hanshu.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/zidian.py" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/lianxi/lianxi1" />
+        <option value="$USER_HOME$/PycharmProjects/test_demo/case/lianxi/appiumlx.py" />
+        <option value="$PROJECT_DIR$/common/basePage.py" />
+        <option value="$PROJECT_DIR$/runCase.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uiTest-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uiTest" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/TestDjango/templates/static" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\87842\PycharmProjects\TestDjango\templates\static" />
+      <recent name="C:\Users\87842\PycharmProjects\TestDjango\templates" />
+      <recent name="C:\Users\87842\PycharmProjects\test_demo\case\Tkinter" />
+      <recent name="C:\Users\87842\PycharmProjects\test_demo\resource" />
+      <recent name="C:\Users\87842\PycharmProjects\Demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\87842\PycharmProjects\TestDjango\templates" />
+      <recent name="C:\Users\87842\PycharmProjects\test_demo\case\shujvjiegou" />
+      <recent name="C:\Users\87842\PycharmProjects\test_demo\case\tool" />
+      <recent name="C:\Users\87842\PycharmProjects\test_demo\case\hanshu" />
+      <recent name="C:\Users\87842\PycharmProjects\test_demo\case\Tkinter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.lianxi1">
+    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="uiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/test_demo/case/lei" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/test_demo/case/lei/base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hanshu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="uiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/hanshu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lianxi1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="uiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/test_demo/case/lianxi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/test_demo/case/lianxi/lianxi1" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python">
+      <module name="uiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\87842\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/TestDjango" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/TestDjango/manage.py" />
+      <option name="PARAMETERS" value="runserver 127.0.0.1:8000" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runCase" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="uiTest" />
+      <option name="INTERPRETER_OPTIONS" value="C:\Users\87842\PycharmProjects\ApiTestFrameWork\venv" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\87842\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runCase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use_property" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="uiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../learn-python3/samples/oop_advance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../learn-python3/samples/oop_advance/use_property.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="x" type="PythonConfigurationType" factoryName="Python">
+      <module name="uiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\87842\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../python/ApiTestFrameWork" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zidian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="uiTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/zidian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.runCase" />
+      <item itemvalue="Python.x" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.base" />
+      <item itemvalue="Python.use_property" />
+      <item itemvalue="Python.hanshu" />
+      <item itemvalue="Python.zidian" />
+      <item itemvalue="Python.lianxi1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lianxi1" />
+        <item itemvalue="Python.zidian" />
+        <item itemvalue="Python.hanshu" />
+        <item itemvalue="Python.base" />
+        <item itemvalue="Python.use_property" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="529c54cd-c48c-4db1-8dc6-a2bca095e6e5" name="Default" comment="" />
+      <created>1544411984789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544411984789</updated>
+      <workItem from="1556161349442" duration="887000" />
+      <workItem from="1556162426946" duration="2365000" />
+      <workItem from="1556518960579" duration="8891000" />
+      <workItem from="1557020313169" duration="1790000" />
+      <workItem from="1557022146478" duration="5845000" />
+      <workItem from="1557110587240" duration="5236000" />
+      <workItem from="1557124239916" duration="84978000" />
+      <workItem from="1557731912399" duration="3643000" />
+      <workItem from="1557890999568" duration="2450000" />
+      <workItem from="1557905340289" duration="1708000" />
+      <workItem from="1557970902679" duration="39488000" />
+      <workItem from="1558088163629" duration="1643000" />
+      <workItem from="1558316633211" duration="62407000" />
+      <workItem from="1558925534248" duration="1978000" />
+      <workItem from="1558947006194" duration="75000" />
+      <workItem from="1559008001547" duration="136000" />
+      <workItem from="1559009519888" duration="713000" />
+      <workItem from="1559011377618" duration="1318000" />
+      <workItem from="1559014474584" duration="606000" />
+      <workItem from="1559026233207" duration="6544000" />
+      <workItem from="1559266196488" duration="599000" />
+      <workItem from="1559271487641" duration="6000" />
+      <workItem from="1559533281336" duration="298000" />
+      <workItem from="1559542174147" duration="371000" />
+      <workItem from="1559542572541" duration="941000" />
+      <workItem from="1559543592231" duration="621000" />
+      <workItem from="1559547706828" duration="1247000" />
+      <workItem from="1559614138576" duration="1716000" />
+      <workItem from="1559615907834" duration="5572000" />
+      <workItem from="1559629549583" duration="24072000" />
+      <workItem from="1559790806572" duration="49558000" />
+      <workItem from="1560131149011" duration="5372000" />
+      <workItem from="1560151954155" duration="37674000" />
+      <workItem from="1560320313288" duration="1323000" />
+      <workItem from="1560394869615" duration="10438000" />
+      <workItem from="1560688235899" duration="6945000" />
+      <workItem from="1560865519220" duration="18113000" />
+      <workItem from="1560998622143" duration="11513000" />
+      <workItem from="1561127699968" duration="3802000" />
+      <workItem from="1561169802851" duration="25617000" />
+      <workItem from="1561290402583" duration="9689000" />
+      <workItem from="1561340082481" duration="76728000" />
+      <workItem from="1561649537611" duration="42731000" />
+      <workItem from="1561945776183" duration="28742000" />
+      <workItem from="1562032214610" duration="56800000" />
+      <workItem from="1562549281622" duration="52501000" />
+      <workItem from="1563097632595" duration="9824000" />
+      <workItem from="1563154901220" duration="4346000" />
+      <workItem from="1563241416574" duration="11678000" />
+      <workItem from="1563440859995" duration="12630000" />
+      <workItem from="1563697390113" duration="14145000" />
+      <workItem from="1563759980965" duration="4070000" />
+      <workItem from="1563848648510" duration="16875000" />
+      <workItem from="1563936471330" duration="1943000" />
+    </task>
+    <task id="LOCAL-00001" summary="7-24前端重构后修改">
+      <created>1563936551079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563936551079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_test_login_py - 2018.12.10 at 17h 15m 10s.xml">
+      <configuration name="py.test in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_login_TestLogin - 2018.12.12 at 13h 22m 37s.xml">
+      <configuration name="py.test for test_login.TestLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_login_TestLogin_test_login_002 - 2018.12.13 at 14h 31m 08s.xml">
+      <configuration name="py.test for test_login.TestLogin.test_login_002" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_login_py - 2018.12.17 at 17h 48m 28s.xml">
+      <configuration name="py.test in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_updateziliao_TestAdd_test_004_xiugaiyongyao - 2019.05.28 at 16h 09m 24s.xml">
+      <configuration name="pytest for test_updateziliao.TestAdd.test_004_xiugaiyongyao" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_aa_py - 2019.06.08 at 23h 07m 52s.xml">
+      <configuration name="pytest in aa.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_aa_py - 2019.06.08 at 23h 08m 05s.xml">
+      <configuration name="pytest in aa.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_aa_test - 2019.06.08 at 23h 08m 41s.xml">
+      <configuration name="pytest for aa.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_zhuangshiqi_py - 2019.06.25 at 15h 14m 00s.xml">
+      <configuration name="pytest in zhuangshiqi.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_zhuangshiqi_py - 2019.06.25 at 15h 14m 43s.xml">
+      <configuration name="pytest in zhuangshiqi.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="781201000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.18951613" side_tool="true" weight="0.35924932" />
+      <window_info id="Favorites" order="1" sideWeight="0.1891892" side_tool="true" weight="0.35924932" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.8104839" visible="true" weight="0.21983914" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.7691898" visible="true" weight="0.19414316" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49865952" weight="0.21671388" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49865952" weight="0.32781956" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.616622" side_tool="true" visible="true" weight="0.25070822" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.886059" weight="0.09773371" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.38337803" weight="0.25070822" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4966488" weight="0.08073654" />
+      <window_info anchor="bottom" auto_hide="true" x="0" y="239" width="1366" height="249" id="Run" order="10" sideWeight="0.80160856" weight="0.305949" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7-24前端重构后修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="7-24前端重构后修改" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pytest.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://H:/web/pages/index/huanzhepage.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/jsonanddict.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/PycharmProjects/test_demo/case/suibian.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/uiTest_master$tabc.coverage" NAME="tabc Coverage Results" MODIFIED="1559993637476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case" />
+    <SUITE FILE_PATH="coverage/uiTest_master$readYaml.coverage" NAME="readYaml Coverage Results" MODIFIED="1558422421706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/uiTest_master$lianxi1.coverage" NAME="lianxi1 Coverage Results" MODIFIED="1563865303537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/lianxi" />
+    <SUITE FILE_PATH="coverage/uiTest_master$runCase__2_.coverage" NAME="runCase (2) Coverage Results" MODIFIED="1560691842677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Demo" />
+    <SUITE FILE_PATH="coverage/uiTest_master$run.coverage" NAME="run Coverage Results" MODIFIED="1560323337735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/demoappium/apk" />
+    <SUITE FILE_PATH="coverage/uiTest_master$jinchengpool.coverage" NAME="jinchengpool Coverage Results" MODIFIED="1560998986742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/xiancheng" />
+    <SUITE FILE_PATH="coverage/uiTest_master$withss.coverage" NAME="withss Coverage Results" MODIFIED="1561047181337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/xiancheng" />
+    <SUITE FILE_PATH="coverage/uiTest_master$use_property.coverage" NAME="use_property Coverage Results" MODIFIED="1563719088155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../learn-python3/samples/oop_advance" />
+    <SUITE FILE_PATH="coverage/uiTest_master$base.coverage" NAME="base Coverage Results" MODIFIED="1563719139119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/lei" />
+    <SUITE FILE_PATH="coverage/uiTest_master$pytest_for_aa_test.coverage" NAME="pytest for aa.test Coverage Results" MODIFIED="1560006521135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case" />
+    <SUITE FILE_PATH="coverage/uiTest_master$newss.coverage" NAME="newss Coverage Results" MODIFIED="1561046961772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/xiancheng" />
+    <SUITE FILE_PATH="coverage/uiTest_master$classbase.coverage" NAME="classbase Coverage Results" MODIFIED="1562397697101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/calss" />
+    <SUITE FILE_PATH="coverage/uiTest_master$tkinter2.coverage" NAME="tkinter2 Coverage Results" MODIFIED="1560959462823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/Tkinter" />
+    <SUITE FILE_PATH="coverage/uiTest_master$aa.coverage" NAME="aa Coverage Results" MODIFIED="1560061461549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case" />
+    <SUITE FILE_PATH="coverage/uiTest_master$zidian.coverage" NAME="zidian Coverage Results" MODIFIED="1563784799381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou" />
+    <SUITE FILE_PATH="coverage/uiTest_master$pytest_in_aa_py.coverage" NAME="pytest in aa.py Coverage Results" MODIFIED="1560006484747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case" />
+    <SUITE FILE_PATH="coverage/uiTest_master$do_yield.coverage" NAME="do_yield Coverage Results" MODIFIED="1561214553832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../learn-python3/samples/advance" />
+    <SUITE FILE_PATH="coverage/uiTest_master$tkint.coverage" NAME="tkint Coverage Results" MODIFIED="1561041615469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/Tkinter" />
+    <SUITE FILE_PATH="coverage/uiTest_master$zhengze.coverage" NAME="zhengze Coverage Results" MODIFIED="1561976415317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/tool" />
+    <SUITE FILE_PATH="coverage/uiTest_master$err_reraise.coverage" NAME="err_reraise Coverage Results" MODIFIED="1561214478110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../learn-python3/samples/debug" />
+    <SUITE FILE_PATH="coverage/uiTest_master$hello_gui.coverage" NAME="hello_gui Coverage Results" MODIFIED="1561214433389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../learn-python3/samples/gui" />
+    <SUITE FILE_PATH="coverage/uiTest_master$xiancheng.coverage" NAME="xiancheng Coverage Results" MODIFIED="1561045553614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/xiancheng" />
+    <SUITE FILE_PATH="coverage/uiTest_master$jsonpa.coverage" NAME="jsonpa Coverage Results" MODIFIED="1562467163978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/tool" />
+    <SUITE FILE_PATH="coverage/uiTest_master$manage.coverage" NAME="manage Coverage Results" MODIFIED="1560178759118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/TestDjango" />
+    <SUITE FILE_PATH="coverage/uiTest_master$digui.coverage" NAME="digui Coverage Results" MODIFIED="1561357497580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/hanshu" />
+    <SUITE FILE_PATH="coverage/uiTest_master$huoqushuruzhi.coverage" NAME="huoqushuruzhi Coverage Results" MODIFIED="1561693792890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/luoji" />
+    <SUITE FILE_PATH="coverage/uiTest_master$xianchengsuo.coverage" NAME="xianchengsuo Coverage Results" MODIFIED="1561046602354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/xiancheng" />
+    <SUITE FILE_PATH="coverage/uiTest_master$Tkinter.coverage" NAME="Tkinter Coverage Results" MODIFIED="1560865704587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/Tkinter" />
+    <SUITE FILE_PATH="coverage/uiTest_master$shengchanxiaofei.coverage" NAME="shengchanxiaofei Coverage Results" MODIFIED="1561130662513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/xiancheng" />
+    <SUITE FILE_PATH="coverage/uiTest_master$readyaml.coverage" NAME="readyaml Coverage Results" MODIFIED="1560416571111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/read" />
+    <SUITE FILE_PATH="coverage/uiTest_master$generator.coverage" NAME="generator Coverage Results" MODIFIED="1561369498713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/hanshu" />
+    <SUITE FILE_PATH="coverage/uiTest_master$liebiao.coverage" NAME="liebiao Coverage Results" MODIFIED="1563593256401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou" />
+    <SUITE FILE_PATH="coverage/uiTest_master$xunhuan.coverage" NAME="xunhuan Coverage Results" MODIFIED="1561470073931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/luoji" />
+    <SUITE FILE_PATH="coverage/uiTest_master$hanshu.coverage" NAME="hanshu Coverage Results" MODIFIED="1563784551477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou" />
+    <SUITE FILE_PATH="coverage/uiTest_master$settings.coverage" NAME="settings Coverage Results" MODIFIED="1560178377261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/TestDjango/TestDjango" />
+    <SUITE FILE_PATH="coverage/uiTest_master$tkinter.coverage" NAME="tkinter Coverage Results" MODIFIED="1560865605838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/Tkinter" />
+    <SUITE FILE_PATH="coverage/uiTest_master$niminghanshu.coverage" NAME="niminghanshu Coverage Results" MODIFIED="1561426512651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/hanshu" />
+    <SUITE FILE_PATH="coverage/uiTest_master$shencenglijie.coverage" NAME="shencenglijie Coverage Results" MODIFIED="1561603363613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou" />
+    <SUITE FILE_PATH="coverage/uiTest_master$zhengze2.coverage" NAME="zhengze2 Coverage Results" MODIFIED="1561976689799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/tool" />
+    <SUITE FILE_PATH="coverage/uiTest_master$jsonanddict.coverage" NAME="jsonanddict Coverage Results" MODIFIED="1559926633372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case" />
+    <SUITE FILE_PATH="coverage/uiTest_master$jincheng.coverage" NAME="jincheng Coverage Results" MODIFIED="1560998691040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/xiancheng" />
+    <SUITE FILE_PATH="coverage/uiTest_master$duotai.coverage" NAME="duotai Coverage Results" MODIFIED="1562384468573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/calss" />
+    <SUITE FILE_PATH="coverage/uiTest_master$suijishu.coverage" NAME="suijishu Coverage Results" MODIFIED="1563637259915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/tool" />
+    <SUITE FILE_PATH="coverage/uiTest_master$diaoyong.coverage" NAME="diaoyong Coverage Results" MODIFIED="1560951050328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/hanshu" />
+    <SUITE FILE_PATH="coverage/uiTest_master$suibian.coverage" NAME="suibian Coverage Results" MODIFIED="1561130331669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case" />
+    <SUITE FILE_PATH="coverage/uiTest_master$pytest_in_zhuangshiqi_py.coverage" NAME="pytest in zhuangshiqi.py Coverage Results" MODIFIED="1561446882886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/hanshu" />
+    <SUITE FILE_PATH="coverage/uiTest_master$riqi.coverage" NAME="riqi Coverage Results" MODIFIED="1563635334950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/tool" />
+    <SUITE FILE_PATH="coverage/uiTest_master$email1.coverage" NAME="email1 Coverage Results" MODIFIED="1562592929275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/tool" />
+    <SUITE FILE_PATH="coverage/uiTest_master$runner.coverage" NAME="runner Coverage Results" MODIFIED="1560246795348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python/appiumn_auto/testRunner" />
+    <SUITE FILE_PATH="coverage/uiTest_master$zifuchuan.coverage" NAME="zifuchuan Coverage Results" MODIFIED="1563202815388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou" />
+    <SUITE FILE_PATH="coverage/uiTest_master$pytest_for_test_updateziliao_TestAdd_test_004_xiugaiyongyao.coverage" NAME="pytest for test_updateziliao.TestAdd.test_004_xiugaiyongyao Coverage Results" MODIFIED="1559030944804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/patient" />
+    <SUITE FILE_PATH="coverage/uiTest_master$kaobei.coverage" NAME="kaobei Coverage Results" MODIFIED="1563501151264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou" />
+    <SUITE FILE_PATH="coverage/uiTest_master$zhuangshiqi.coverage" NAME="zhuangshiqi Coverage Results" MODIFIED="1561974055380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/hanshu" />
+    <SUITE FILE_PATH="coverage/uiTest_master$mulubianli.coverage" NAME="mulubianli Coverage Results" MODIFIED="1559989626886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case" />
+    <SUITE FILE_PATH="coverage/uiTest_master$gouwuzhifu.coverage" NAME="gouwuzhifu Coverage Results" MODIFIED="1561693769246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/luoji" />
+    <SUITE FILE_PATH="coverage/uiTest_master$xuanzeleixing.coverage" NAME="xuanzeleixing Coverage Results" MODIFIED="1561652238287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou" />
+    <SUITE FILE_PATH="coverage/uiTest_master$neijianhanshu.coverage" NAME="neijianhanshu Coverage Results" MODIFIED="1562836942448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/hanshu" />
+    <SUITE FILE_PATH="coverage/uiTest_master$runCase__1_.coverage" NAME="runCase (1) Coverage Results" MODIFIED="1560691447668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../python/ApiTestFrameWork" />
+    <SUITE FILE_PATH="coverage/uiTest_master$xiecheng.coverage" NAME="xiecheng Coverage Results" MODIFIED="1561215447063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/test_demo/case/xiancheng" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../python/ApiTestFrameWork/core/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1509" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python/ApiTestFrameWork/core/readExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-905" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python/ApiTestFrameWork/core/testBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2458" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-python3/samples/db/do_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-python3/samples/module/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/time.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3875">
+          <folding>
+            <element signature="e#3180#3543#0" />
+            <element signature="e#3587#4613#0" />
+            <element signature="e#4662#5741#0" />
+            <element signature="e#6202#7039#0" />
+            <element signature="e#7101#7273#0" />
+            <element signature="e#7399#9621#0" />
+            <element signature="e#9676#9774#0" />
+            <element signature="e#9998#10368#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-python3/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-python3/samples/oop_basic/animals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-python3/samples/oop_basic/get_instance.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-python3/samples/oop_basic/protected_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-python3/samples/oop_basic/student.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-python3/samples/oop_basic/get_type.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/paixu.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/calss/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/hanshu/diaoyong.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/hanshu/digui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/234761598/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="2958" column="8" selection-start-line="2958" selection-start-column="8" selection-end-line="2958" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../learn-python3/samples/oop_advance/use_property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/tool/riqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/xuanzeleixing.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/hanshu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/hanshu/generator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/shujvjiegou/zidian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/web/case/test_45_huizhen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/lei/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#1#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/logging.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/testcase.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webdriver.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/project.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Demo/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/hanshu/neijianhanshu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1134" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/docter/test_002_addyisheng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index/docterPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/platform.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/excelUtil.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/alarm.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#14#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/readYaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/allure.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2260">
+          <caret line="421" column="4" selection-start-line="421" selection-start-column="4" selection-end-line="421" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/uiautomator2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="773" column="8" selection-start-line="773" selection-start-column="8" selection-end-line="773" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="60" column="30" lean-forward="true" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/lianxi/lianxi1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/test_demo/case/lianxi/appiumlx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python/ApiTestFrameWork/runCase.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/basePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python/ApiTestFrameWork/conf/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runCase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

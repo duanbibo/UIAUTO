@@ -1,0 +1,6 @@
+#设置测试报告的路径
+allure:
+   path: tools\allure-2.7.0\bin
+
+
+

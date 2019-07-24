@@ -1,0 +1,34 @@
+#测试套件：设置需要执行的用例,例：testcase/下的路径
+
+testSuite:
+    module:
+       patient/test_updateziliao.py
+       nurse/test_003_piliangaddhushi.py
+       patient/test_004_addbingren.py
+       nurse/test_003_delhushi.py
+       nurse/test_003_yichuhushi.py
+       nurse/test_003_fenpeihushi.py
+       nurse/test_003_renzhenghushi.py
+       nurse/test_003_addhushi.py
+       docter/test_002_deloneyisheng.py
+       docter/test_002_updateyisheng.py
+       docter/test_002_renzhengyisheng.py
+       docter/test_002_addyisheng.py
+       xinzhili/test_delkeshipass.py
+       xinzhili/test_openyiyuan.py
+       xinzhili/test_closeyiyuan.py
+       xinzhili/test_updateyiyuan.py
+       xinzhili/test_addyiyuan.py
+       xinzhili/test_updatakeshi.py
+       xinzhili/test_addkeshi.py
+       xinzhili/test_loginnew.py
+       xinzhili/test_addjigou.py
+       xinzhili/test_logout.py
+       xinzhili/test_login.py
+
+
+
+
+#设置失败重跑次数
+
+retrys: 0
